@@ -200,7 +200,7 @@ const AIItineraryPlanner = () => {
             time: '6:00 AM',
             duration: '3 hours',
             cost: 1100,
-            rating: 4.9,
+            rating:  4.9,
             icon: 'Sunrise',
             bookable: true
           },
